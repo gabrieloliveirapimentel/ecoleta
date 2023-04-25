@@ -1,0 +1,6 @@
+//Ao abrir a pasta server, executar os seguintes itens:
+//npm run dev
+//npm run knex:seed
+//npm run knex:migrate
+
+//Para iniciar a aplicação web: npm start
